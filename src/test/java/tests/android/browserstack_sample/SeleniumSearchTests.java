@@ -13,7 +13,7 @@ import org.openqa.selenium.support.ui.WebDriverWait;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.remote.DesiredCapabilities;
 
-public class SearchTests {
+public class SeleniumSearchTests {
 
     @Test
     void successSearchTest() throws MalformedURLException, InterruptedException {
